@@ -10,3 +10,6 @@
 * @invite rtBQX5D3bD
 * @version [Remix]
 * @donate https://ko-fi.com/nyria
+
+Чтобы запустить эту тему, тему необходимо ввести в редактор css в better discord. 
+и все готово.
