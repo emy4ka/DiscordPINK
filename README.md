@@ -8,5 +8,5 @@
 * @author Nyria#3863
 * @description A theme based on @Melonturtle_ stream design
 * @invite rtBQX5D3bD
-* @version 1.4
+* @version [Remix]
 * @donate https://ko-fi.com/nyria
