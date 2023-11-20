@@ -3,3 +3,10 @@
 Создатель: LilyPichu
 
 Моя тема это всего лиш переработанный код в некоторых местах.
+
+* @name LilyPichu
+* @author Nyria#3863
+* @description A theme based on @Melonturtle_ stream design
+* @invite rtBQX5D3bD
+* @version 1.4
+* @donate https://ko-fi.com/nyria
